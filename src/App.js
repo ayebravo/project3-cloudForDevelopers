@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>
+          Ayelen Bravo
+        </h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/ayebravo/project3-cloudForDevelopers"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My GitHub repository
         </a>
       </header>
     </div>
